@@ -17,3 +17,7 @@ image-classification/image_classification.index
 image-classification/image_classification.meta
 intro-to-rnns/.ipynb_checkpoints/
 intro-to-rnns/chkpts_anna/
+.DS_Store
+# Ignore downloaded datasets
+embeddings/data/
+embeddings/text8.zip
