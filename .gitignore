@@ -21,5 +21,14 @@ intro-to-rnns/chkpts_anna/
 # Ignore downloaded datasets
 embeddings/data/
 embeddings/text8.zip
+face_generation/data/
 
 .ipynb_checkpoints/
+
+
+*.pyc
+*.p
+*.pkl 
+
+*/.floyd*
+
