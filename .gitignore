@@ -32,3 +32,7 @@ face_generation/data/
 
 */.floyd*
 
+batch-norm/MNIST_data
+dcgan-svhn/samples.pkl
+face_generation/checkpoints/
+face_generation/samples.pkl
